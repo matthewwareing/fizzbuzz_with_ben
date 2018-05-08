@@ -6,6 +6,6 @@ describe 'fizzbuzz' do
   end
 
   it "return 'buzz' when given 5" do
-    expect(fizbuzz(5)).to eq "buzz"
+    expect(fizzbuzz(5)).to eq "buzz"
   end
 end
